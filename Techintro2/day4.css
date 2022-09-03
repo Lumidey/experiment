@@ -1,0 +1,22 @@
+nav{
+    background-color: rgb(30, 175, 233);
+    display: flex;
+    justify-content: space-between;
+}
+
+.firstdiv{
+    background-color: brown;
+    width: 35%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+button{
+    border-radius: 17px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+   
+    
+}

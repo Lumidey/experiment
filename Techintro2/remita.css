@@ -1,0 +1,182 @@
+
+.firstdiv{
+    
+    width: 35%;
+    display: flex;
+    justify-content: space-around;
+    float: right;
+    text-decoration: none;
+   
+}
+a{
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+    color: black;
+}
+body{
+    background-image: url(./projectimages/images.jpg);
+    background-size: 75%;
+    opacity: 0.9px;
+    background-attachment: fixed;
+  
+    
+}
+button{
+    border-radius: 12px;
+    border-color: orangered;
+    padding: 10px;
+    margin-bottom: 25px;
+    
+
+}
+button:hover{
+    background-color: rgb(75, 214, 33);
+}
+input{
+    float: right;
+    padding-left: 180px;
+    padding-right: 180px;
+    height: 30px;
+    border-radius: 14px;
+    border-color: grey;
+    border: 1px solid grey;
+    margin-left: 380px;
+    text-align: right;
+}
+p{
+    font-size: xx-large;
+}
+button1{
+    color: white;
+    border-radius: 20px;
+    border-color: orangered;
+    border: 1px solid orangered;
+    background-color: orangered;
+    padding-left: 80px;
+    padding-right: 80px;
+    height: 70px;
+}
+.empower{
+    margin-left: 40px;
+}
+.phone{
+    align-items: center;
+    border: 5px solid orangered;
+    margin-right:1230px;
+    padding: 25px;
+    background-color: white;
+}
+.buydata{
+    align-items: center;
+    border: 5px solid whitesmoke;
+    margin-right:1230px;
+    padding: 25px;
+    background-color: white;
+
+}
+.buydata{
+    align-items: center;
+    border: 5px solid whitesmoke;
+    margin-right:1230px;
+    padding: 25px;
+    background-color: white;
+
+}
+.buyelect{
+    align-items: center;
+    border: 5px solid whitesmoke;
+    margin-right:1230px;
+    padding: 25px;
+    background-color: white;
+   
+
+}
+.cabletv{
+    align-items: center;
+    border: 5px solid whitesmoke;
+    margin-right:1230px;
+    padding: 25px;
+    background-color: white;
+
+}
+.row1{
+    display:block;
+    
+   
+    
+    
+}
+.paywater{
+    align-items: center;
+    border: 5px solid whitesmoke;
+    margin-right:1230px;
+    padding: 25px;
+    background-color: white;
+
+
+}
+.paytsa{
+    align-items: center;
+    border: 5px solid whitesmoke;
+    margin-right:1230px;
+    padding: 25px;
+    background-color: white;
+
+}
+.bills{
+    align-items: justify;
+    border: 5px solid whitesmoke;
+    margin-right:1230px;
+    padding: 25px;
+    background-color: white;
+
+}
+.paytaxes{
+    align-items: center;
+    border: 5px solid whitesmoke;
+    margin-right:1230px;
+    padding: 25px;
+    background-color: white;
+
+}
+.paysalaries{
+    align-items: center;
+    border: 5px solid whitesmoke;
+    margin-right:1230px;
+    padding: 25px;
+    background-color: white;
+
+}.resend{
+    align-items: center;
+    border: 5px solid whitesmoke;
+    margin-right:1230px;
+    padding: 25px;
+    background-color: white;
+
+}
+.standing{
+    align-items: center;
+    border: 5px solid whitesmoke;
+    margin-right:1230px;
+    padding: 25px;
+    background-color: white;
+
+}
+.buywaec{
+    align-items: center;
+    border: 5px solid whitesmoke;
+    margin-right:1230px;
+    padding: 25px;
+    background-color: white;
+
+}
+
+
+ion-icon{
+    color: orangered;
+    font-size: x-large;
+}
+.class1{
+    align-items: center;
+}

@@ -1,0 +1,26 @@
+h1{
+    color: chocolate;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+    color: rgb(168, 241, 138);
+}
+input{
+    background-color: brown;
+}
+table, th, td{
+    border: 3px solid brown;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    height: 50px;
+}
+td{
+    color: cyan;
+    text-align: center;
+}
+tr:hover{
+    background-color: darkorchid;
+}

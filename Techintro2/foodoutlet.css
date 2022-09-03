@@ -1,0 +1,51 @@
+div{
+    background-color: gainsboro;
+}
+h1{
+    text-align: center;
+    text-shadow: darkgrey;
+    color: limegreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px solid yellowgreen;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px greenyellow;
+    
+}
+h2{
+    text-align: center;
+    color: brown;
+}
+h3{text-align: center;
+    color: brown;
+
+}
+ul{
+    color: indigo;
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: aqua;
+}
+img{
+    display: inline-flex;
+    flex-direction: row;
+    opacity: 0.5;
+    
+}
+img:hover{
+    opacity:1.0 ;
+}
+a{
+    display: block;
+    width: 80px;
+    background-color: chartreuse;text-align: center;
+    padding: 14px 16px;
+}
+li{
+    float: left;
+}
+li a:hover{
+    background-color: moccasin;
+}
